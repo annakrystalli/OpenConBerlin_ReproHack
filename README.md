@@ -44,9 +44,9 @@ We want to **collaborativelly collate and communicate our experiences and output
 
 ***
 
-## **Two ways to get involved:**
+# **Two ways to get involved:**
 
-### **[Nominate a paper](https://goo.gl/forms/DJoAHVDCeWlG92b03)**
+## **[Nominate a paper](https://goo.gl/forms/DJoAHVDCeWlG92b03)**
 
 We invite nominations from anyone, especially if you would like to **test one of your own papers!** Either way, we encourage proponents to seek consent from the original authors for their nominations. 
 
@@ -55,43 +55,43 @@ We invite nominations from anyone, especially if you would like to **test one of
 <br>
 
 
-### [**Register as a participant**](https://www.eventbrite.co.uk/e/opencon-berlin-hackathon-tickets-28890667765)
+## [**Register as a participant**](https://www.eventbrite.co.uk/e/opencon-berlin-hackathon-tickets-28890667765)
 
 Join us at the hack to **dig into exciting science**, learn more about **reproducibility**, working with **other people's code and data** and more!
 
 
 ***
 
-## **On the day**
+# **On the day**
 
 This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues) in this repo. 
 
-### **Authors**
+## **Authors**
 
 We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/OCB_ReproHack/Lobby) as a public lobby where you can also reach the organisers prior to the hack. You can start discussions through **issues** in each project repo and we've also set up a public, collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack).
 
-### **Participants**
+## **Participants**
 
-#### **1. Project and team selection**
+### **1. Project and team selection**
 
 We'll start by discussing the [**papers proposed**](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/) and form into teams. We want to use github to keep track of the materials produced during the hack so we encourage teams to ensure they have someone with github skills on board. 
 
 
-#### **2. Create project github repo**
+### **2. Create project github repo**
 
  Individuals teams are requested to **create their own github repo** from which to coordinate individual projects.
 
-#### **3. Register your project**
+### **3. Register your project**
 - Copy the text from the [**project registration issue template**](https://raw.githubusercontent.com/annakrystalli/OpenConBerlin_ReproHack/master/.github/project_reg_tmpl.md).
 - [**Create** a new issue](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues/new) in **this** (the OpenCon Berlin ReproHack) repo.
 - **Paste** text copied from template.
 - **Complete details** and save.
 
-#### **4. Work on your project!**
+### **4. Work on your project!**
 
 Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a notebook or .Rmd letrate programming document. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
 
-#### **5. Record your experience**
+### **5. Record your experience**
 
 We encourage teams to **track their experiences**. Here's a few suggestions
 
@@ -105,9 +105,9 @@ We encourage teams to **track their experiences**. Here's a few suggestions
 <br>
 
 
-#### **6. Contribute team feedback to the blogpad**
+### **6. Contribute team feedback to the blogpad**
 
-#### The **most useful output** is the **experiences we collect** on the [**blogpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog) which will form the basis for the **final blogpost**. 
+### The **most useful output** is the **experiences we collect** on the [**blogpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog) which will form the basis for the **final blogpost**. 
 
 - We ask **teams** to at least contribute **a section around their project** (copy and complete template). 
 - There's also a section in the INTRO where **both authors and participants** can **provide some feedback on their motivations and experiences individually**.
