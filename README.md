@@ -1,8 +1,4 @@
----
-output: 
-    html_document:
-        theme: simplex
---- 
+
 ![](https://d3n8a8pro7vhmx.cloudfront.net/righttoresearch/pages/1004/features/original/Berlin_-_NB_Banner.png?1473355209)
 
 
@@ -81,21 +77,21 @@ We encourage authors that are keen, to be available for participants to reach ou
 We'll start by discussing the [**papers proposed**](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/) and form into teams. We want to use github to keep track of the materials produced during the hack so we encourage teams to ensure they have someone with github skills on board. 
 
 
-##### **2. Create project github repo**
+#### **2. Create project github repo**
 
  Individuals teams are requested to **create their own github repo** from which to coordinate individual projects.
 
-##### **3. Register your project**
+#### **3. Register your project**
 - Copy the text from the [**project registration issue template**](https://raw.githubusercontent.com/annakrystalli/OpenConBerlin_ReproHack/master/.github/project_reg_tmpl.md).
 - [**Create** a new issue](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues/new) in **this** (the OpenCon Berlin ReproHack) repo.
 - **Paste** text copied from template.
 - **Complete details** and save.
 
-##### **4. Work on your project!**
+#### **4. Work on your project!**
 
 Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a notebook or .Rmd letrate programming document. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
 
-##### **5. Record your experience**
+#### **5. Record your experience**
 
 We encourage teams to **track their experiences**. Here's a few suggestions
 
@@ -109,9 +105,9 @@ We encourage teams to **track their experiences**. Here's a few suggestions
 <br>
 
 
-##### **6. Contribute team feedback to the blogpad**
+#### **6. Contribute team feedback to the blogpad**
 
-##### The **most useful output** is the **experiences we collect** on the [**blogpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog) which will form the basis for the **final blogpost**. 
+#### The **most useful output** is the **experiences we collect** on the [**blogpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog) which will form the basis for the **final blogpost**. 
 
 - We ask **teams** to at least contribute **a section around their project** (copy and complete template). 
 - There's also a section in the INTRO where **both authors and participants** can **provide some feedback on their motivations and experiences individually**.
